@@ -2,6 +2,12 @@
 
 SwitchIT is a two-sided career marketplace connecting job candidates with HR recruiters. It consists of two independently deployable backend services, a shared infrastructure layer, and a React frontend, with an embedded AI companion agent and a RAG (Retrieval-Augmented Generation) pipeline for contextual career guidance.
 
+
+
+Uploading ai companion.mov…
+
+
+
 ---
 
 ## Table of Contents
